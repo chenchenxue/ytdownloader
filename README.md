@@ -16,7 +16,7 @@ It allows you to download either a single video or an entire playlist by providi
 
 ## How to Run
 Make sure your Download file is the newest version.  
-Just click the ytdownloader-ver.exe file.
+Just open the ytdownloader-ver.exe file.
 
 ## Note 
 * The downloaded files are saved in the respective folders  
