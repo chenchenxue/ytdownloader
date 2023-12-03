@@ -20,7 +20,8 @@ It provides the flexibility to download either a single video or an entire playl
 * Error Handling: Handles age-restricted videos and provides  relevant error messages.
 
 ## How to Run
-Ensure you have the latest version of the executable file.  Open the ytdownloader-ver.exe file to run the program.
+Ensure you have the latest version of the executable file.  
+Open the ytdownloader-ver.exe file to run the program.
 
 ## Note 
 * The downloaded files are stored in respective folders:
