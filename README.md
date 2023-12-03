@@ -24,8 +24,8 @@ Ensure you have the latest version of the executable file.  Open the ytdownloade
 
 ## Note 
 * The downloaded files are stored in respective folders:
-"music" for single downloads.
-Playlist name for playlist downloads.
+    * "music" for single downloads.
+    * Playlist name for playlist downloads.
 * The script utilizes Pytube for YouTube video downloading and Tkinter for the graphical user interface.
 * Ensure a stable internet connection during the download process.
 * Feel free to modify and contribute to the project based on your needs!
