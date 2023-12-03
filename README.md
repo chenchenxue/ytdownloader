@@ -18,7 +18,7 @@ It provides the flexibility to download either a single video or an entire playl
 * Playlist Mode: Downloads the entire playlist from the provided YouTube URL.
 * Progress Bar: Visual representation of playlist download progress.
 * Error Handling: Handles age-restricted videos and provides  relevant error messages.
-* 
+
 ## How to Run
 Ensure you have the latest version of the executable file. Open the ytdownloader-ver.exe file to run the program.
 
