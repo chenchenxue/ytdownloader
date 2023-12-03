@@ -1,9 +1,10 @@
 # Youtube downloader
-This is a simple YouTube music/video downloader using Pytube and Tkinter in Python.  
-It allows you to download either a single video or an entire playlist by providing the respective YouTube URL.
+YouTube Downloader is a straightforward tool for downloading YouTube music and videos, built with Pytube and Tkinter in Python.  
+It provides the flexibility to download either a single video or an entire playlist by entering the corresponding YouTube URL.
 
 ## Usage
-1. Download the .exe file.
+### 1. Download the .exe file.
+
 2. Run the program.
 3. Select the mode you want ( Single / Playlist ).
 4. Click the "Download" Buttom.
